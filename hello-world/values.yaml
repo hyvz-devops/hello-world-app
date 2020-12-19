@@ -31,7 +31,7 @@ ingress:
   tls:
   - secretName: hello-world-tls
     hosts:
-      - dev.hello.hyavuz.com
+    - dev.hello.hyavuz.com
 
 resources: {}
   # We usually recommend not to specify default resources and to leave this as a conscious
